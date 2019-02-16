@@ -1,0 +1,22 @@
+{
+  "name": "microservices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "ViniciusFreitas",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cookie-parser": "^1.4.3",
+    "hedz-hp-crud": "^1.0.0",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "helmet": "^3.15.0",
+    "hp-message": "^1.0.0",
+    "mongoose": "^5.4.1",
+    "morgan": "^1.9.1"
+  }
+}
